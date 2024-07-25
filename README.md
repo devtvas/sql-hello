@@ -10,7 +10,7 @@
 ## Codigos
 
 
-* COMMENTS ➔ [Código]
+* COMMENTS ➔ [Código](https://github.com/devtvas/sql-hello/blob/main/reading/00_comments.sql)
 
 ## Enlaces de interés
 
